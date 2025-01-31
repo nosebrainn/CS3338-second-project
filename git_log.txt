@@ -1,0 +1,52 @@
+commit 68565b6234229764159f46fb4de9d53cae7c1855
+Merge: 3aab474 ba2c526
+Author: nosebrainn <briangonzolez@gmail.com>
+Date:   Fri Jan 31 10:55:05 2025 -0800
+
+    Merged Food and Game between branches
+
+commit ba2c526690c1cbe3a987c3c038cbcf5f2e324740
+Author: nosebrainn <briangonzolez@gmail.com>
+Date:   Fri Jan 31 10:52:17 2025 -0800
+
+    Added favorite game
+
+commit 3aab474542cfc9e79e6ea0b43c8830a524d15889
+Author: nosebrainn <briangonzolez@gmail.com>
+Date:   Fri Jan 31 10:49:28 2025 -0800
+
+    Added favorite food
+
+commit 1495e317dcdf5fb6f1d3a0dc43bbc23488e7ddec
+Merge: f5cbb09 5ee1da2
+Author: nosebrainn <briangonzolez@gmail.com>
+Date:   Fri Jan 31 10:44:00 2025 -0800
+
+    Merge branch 'main' of https://github.com/nosebrainn/CS3338-second-project
+
+commit f5cbb099bec1492b84ddcbafebc63f8ac0b52655
+Author: nosebrainn <briangonzolez@gmail.com>
+Date:   Fri Jan 31 10:42:36 2025 -0800
+
+    Added README file
+
+commit 5ee1da2dde5ae23d61fa08b69a90af3cbffd7a3f
+Merge: 1d2bfc0 7c21eb0
+Author: nosebrain <briangonzolez@gmail.com>
+Date:   Fri Jan 31 10:39:36 2025 -0800
+
+    Merge pull request #1 from nosebrainn/info-fill
+    
+    Updated index with fill in blank
+
+commit 7c21eb0344a7ca47db98212eaad313a8e0d2397f
+Author: nosebrainn <briangonzolez@gmail.com>
+Date:   Fri Jan 31 10:33:56 2025 -0800
+
+    Updated index with fill in blank
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
